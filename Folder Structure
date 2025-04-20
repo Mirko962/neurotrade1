@@ -1,0 +1,7 @@
+neurotrade-template/
+├── backend/
+│   └── main.py
+├── routes/
+│   └── trades.py
+├── requirements.txt
+└── start.sh
